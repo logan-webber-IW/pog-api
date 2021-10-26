@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{CE141C9A-D50C-40F9-AAAC-9A2D8CC01D5B}|Default">
+  <MonoDevelop.Ide.ItemProperties.big_220huge_220api_220thing PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="big huge api thing/Pages/FirstTry.cshtml.cs">
+    <Files>
+      <File FileName="big huge api thing/Startup.cs" Line="15" Column="6" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/Privacy.cshtml" Line="8" Column="33" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/Index.cshtml" Line="1" Column="1" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/Index.cshtml.cs" Line="22" Column="42" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/Privacy.cshtml.cs" Line="21" Column="10" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/_ViewStart.cshtml" Line="1" Column="1" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/Shared/_Layout.cshtml" Line="9" Column="8" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/FirstTry.cshtml" Line="1" Column="1" NotebookId="1" />
+      <File FileName="big huge api thing/Pages/FirstTry.cshtml.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="big huge api thing" expanded="True">
+            <Node name="big huge api thing" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="FirstTry.cshtml" expanded="True">
+                  <Node name="FirstTry.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

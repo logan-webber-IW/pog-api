@@ -19,7 +19,7 @@ namespace big_huge_api_thing.Pages
 
         public void OnGet()
         {
-
+            Console.WriteLine("Sup cuz");
         }
     }
 }

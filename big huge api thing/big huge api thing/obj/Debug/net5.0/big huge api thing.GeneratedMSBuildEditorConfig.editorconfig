@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = big_huge_api_thing
-build_property.ProjectDir = C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\big huge api thing\big huge api thing\
+build_property.ProjectDir = /Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/

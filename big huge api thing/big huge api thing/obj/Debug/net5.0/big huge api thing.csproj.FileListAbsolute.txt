@@ -1,0 +1,40 @@
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.csproj.AssemblyReference.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.AssemblyInfoInputs.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.AssemblyInfo.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.csproj.CoreCompileInputs.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.MvcApplicationPartsAssemblyInfo.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.RazorAssemblyInfo.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.RazorAssemblyInfo.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/staticwebassets/big huge api thing.StaticWebAssets.Manifest.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/staticwebassets/big huge api thing.StaticWebAssets.xml
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/scopedcss/bundle/big huge api thing.styles.css
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.TagHelpers.input.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.TagHelpers.output.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.RazorCoreGenerate.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/FirstTry.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.RazorTargetAssemblyInfo.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.RazorTargetAssemblyInfo.cs
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.dll
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/ref/big huge api thing.dll
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.pdb
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/appsettings.Development.json
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/appsettings.json
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.deps.json
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.runtimeconfig.json
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.runtimeconfig.dev.json
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.dll
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/ref/big huge api thing.dll
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.pdb
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.Views.dll
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/bin/Debug/net5.0/big huge api thing.Views.pdb
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.Views.pdb
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.genruntimeconfig.cache
+/Users/jaimar/Projects/pog-api/big huge api thing/big huge api thing/obj/Debug/net5.0/big huge api thing.csproj.CopyComplete
