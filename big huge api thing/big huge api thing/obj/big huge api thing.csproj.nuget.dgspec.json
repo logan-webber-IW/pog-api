@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\big huge api thing\\big huge api thing\\big huge api thing.csproj": {}
+    "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\pog-api\\big huge api thing\\big huge api thing\\big huge api thing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\big huge api thing\\big huge api thing\\big huge api thing.csproj": {
+    "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\pog-api\\big huge api thing\\big huge api thing\\big huge api thing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\big huge api thing\\big huge api thing\\big huge api thing.csproj",
+        "projectUniqueName": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\pog-api\\big huge api thing\\big huge api thing\\big huge api thing.csproj",
         "projectName": "big huge api thing",
-        "projectPath": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\big huge api thing\\big huge api thing\\big huge api thing.csproj",
+        "projectPath": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\pog-api\\big huge api thing\\big huge api thing\\big huge api thing.csproj",
         "packagesPath": "C:\\Users\\LoganWebber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\big huge api thing\\big huge api thing\\obj\\",
+        "outputPath": "C:\\Users\\LoganWebber\\Workplace\\learning-space\\C#\\API Stuff\\api-stuff\\pog-api\\big huge api thing\\big huge api thing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LoganWebber\\AppData\\Roaming\\NuGet\\NuGet.Config",
