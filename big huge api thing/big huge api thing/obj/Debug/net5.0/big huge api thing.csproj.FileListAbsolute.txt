@@ -1,0 +1,41 @@
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\appsettings.json
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.exe
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.deps.json
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.runtimeconfig.json
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.runtimeconfig.dev.json
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.dll
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\ref\big huge api thing.dll
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.pdb
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.Views.dll
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\bin\Debug\net5.0\big huge api thing.Views.pdb
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.csproj.AssemblyReference.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.AssemblyInfoInputs.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.AssemblyInfo.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.csproj.CoreCompileInputs.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.RazorAssemblyInfo.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.RazorAssemblyInfo.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\staticwebassets\big huge api thing.StaticWebAssets.Manifest.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\staticwebassets\big huge api thing.StaticWebAssets.xml
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\scopedcss\bundle\big huge api thing.styles.css
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.TagHelpers.input.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.TagHelpers.output.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.RazorCoreGenerate.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.RazorTargetAssemblyInfo.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.RazorTargetAssemblyInfo.cs
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.Views.pdb
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.dll
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\ref\big huge api thing.dll
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.pdb
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.genruntimeconfig.cache
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\big huge api thing.csproj.CopyComplete
+C:\Users\LoganWebber\Workplace\learning-space\C#\API Stuff\api-stuff\pog-api\big huge api thing\big huge api thing\obj\Debug\net5.0\Razor\Pages\veryPog.cshtml.g.cs
